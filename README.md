@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**lucas-971/lucas-971** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub profile! 👋
 
-Here are some ideas to get you started:
+## Who am I?
+I am currently a Master's student at Webitech School, passionate about Python development and innovative technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects
+Explore my projects to discover my expertise in software development, ranging from web applications to utility scripts.
+
+## My skills
+- Languages: Python, JavaScript, PHP, JAVA, HTML, CSS
+- Frameworks: Django, Flask, React, Angular, Symfony
+- Version Control Tools: Git, GitHub, Gitlab
+
+## What I'm looking for
+I am seeking new professional opportunities starting October 2024. Feel free to contact me to discuss any collaboration or project opportunities!
+
+## Contact
+📧 Email me at: [lcantin971@gmail.com](mailto:lcantin971@gmail.com)
+🔗 Visit my LinkedIn profile: [linkedin.com/in/lucas-cantin-b66a0b213](https://www.linkedin.com/in/lucas-cantin-b66a0b213/)
+
