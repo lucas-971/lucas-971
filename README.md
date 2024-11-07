@@ -8,8 +8,8 @@ I am currently a Master's student at Webitech School, passionate about Python de
 Explore my projects to discover my expertise in software development, ranging from web applications to utility scripts.
 
 ## My skills ✔️
-- Languages: Python, JavaScript, PHP, JAVA, HTML, CSS
-- Frameworks: Django, Flask, React, Angular, Symfony
+- Languages: Python, JavaScript, JAVA, HTML, CSS
+- Frameworks: Django, Flask, FastAPI, React, Angular
 - Version Control Tools: Git, GitHub, Gitlab
 
 ## What I'm looking for 🧑‍💼
